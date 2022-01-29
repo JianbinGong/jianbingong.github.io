@@ -5,15 +5,15 @@
 ### Projects
 
 [PlayTogether](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Slide1.jpeg?raw=true"/>
 
 ---
 [InsNews](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Insnews.jpeg?raw=true"/>
 
 ---
 [SpaceX](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/spacex.jpg?raw=true"/>
 
 ---
 
