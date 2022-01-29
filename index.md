@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [PlayTogether](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Repositories
 
 - [TwitchPlus](http://example.com/)
 - [PlayTogether](https://github.com/JianbinGong/PictureSocialNetWork)
