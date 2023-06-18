@@ -19,7 +19,7 @@
 
 ### Repositories
 
-- [TwitchPlus](http://example.com/)
+- [TwitchPlus](https://github.com/JianbinGong/twitchPlus)
 - [PlayTogether](https://github.com/JianbinGong/PictureSocialNetWork)
 - [InsNews](https://github.com/JianbinGong/PersonalizeNews)
 - [SpaceX](https://github.com/JianbinGong/spaceX)
